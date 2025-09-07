@@ -92,7 +92,4 @@ public/
 * SEO-friendly and accessible.
 * Smooth animations improve UX without affecting performance.
 
-## Live Demo & Repository
 
-* **Live Site**: \[Insert URL]
-* **GitHub Repository**: \[Insert Repo Link]
